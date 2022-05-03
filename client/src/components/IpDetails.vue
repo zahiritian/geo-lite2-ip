@@ -34,7 +34,7 @@ export default {
     return {
       details: [],
       error: '',
-      ip: '50.100.255.190'
+      ip: '50.100.255.190,50.99.255.190'
     }
   },
 
